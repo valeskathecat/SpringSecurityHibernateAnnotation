@@ -1,0 +1,16 @@
+com\websystique\springsecurity\model\UserProfile.class
+com\websystique\springsecurity\model\State.class
+com\websystique\springsecurity\configuration\HelloWorldConfiguration.class
+com\websystique\springsecurity\service\CustomUserDetailsService.class
+com\websystique\springsecurity\model\User.class
+com\websystique\springsecurity\controller\HelloWorldController.class
+com\websystique\springsecurity\dao\AbstractDao.class
+com\websystique\springsecurity\model\UserProfileType.class
+com\websystique\springsecurity\dao\UserDao.class
+com\websystique\springsecurity\configuration\SecurityWebApplicationInitializer.class
+com\websystique\springsecurity\service\UserServiceImpl.class
+com\websystique\springsecurity\configuration\SecurityConfiguration.class
+com\websystique\springsecurity\service\UserService.class
+com\websystique\springsecurity\dao\UserDaoImpl.class
+com\websystique\springsecurity\configuration\SpringMvcInitializer.class
+com\websystique\springsecurity\configuration\HibernateConfiguration.class
